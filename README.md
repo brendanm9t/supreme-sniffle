@@ -3,3 +3,6 @@
 
 # What sepreme-sniffle is about
 The what's what of what's hot: hello-world
+
+# Status:
+work in progress ad infinitum
